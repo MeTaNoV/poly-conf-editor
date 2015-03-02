@@ -43,5 +43,10 @@ It could be a primitive value such as a String or integer or could represent com
 	- ```bower install --save Polymer/polymer```
 	- this will create a bower_components directory containing the polymer component as well as all component it depends on (core-componentpage and webcomponentsjs in our case)
 	- it also update the bower.json file to add the dependencies of our app to polymer
-- 
+- Create our first element:
+	- we create a directory to hold our components ```pgce_components```
+	- we create our first elements that is a polymer-element (See my-element.html)
+	- ...
+- Additional polymer components needs to be installed: core-ajax, core-toolbar, paper-tabs, paper-tab
+
 
