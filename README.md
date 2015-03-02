@@ -28,9 +28,15 @@ It could be a primitive value such as a String or integer or could represent com
 - add the persistance features in mongoDB
 - add the undo/redo mechanism
 - transform the Tabs definition into a generic one
+- add the possibility to add constraints to parameter values
+- add the possibility to reference other parameter values
+- add validate feature
 
 # Installing the development environment
 - Install node.js (get it here: http://nodejs.org/). This will additionally install npm, the node modules package manager
 - Install bower which is a dedicated package manager for front-end application () thanks to npm
 	- ```npm install -global bower```
+- Initialize bower for our application using
+	- ```bower init```
+	- this will create a file called bower.json containing the properties of our application
 - 
