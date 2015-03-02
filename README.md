@@ -39,4 +39,9 @@ It could be a primitive value such as a String or integer or could represent com
 - Initialize bower for our application using
 	- ```bower init```
 	- this will create a file called bower.json containing the properties of our application
+- Install Polymer using bower
+	- ```bower install --save Polymer/polymer```
+	- this will create a bower_components directory containing the polymer component as well as all component it depends on (core-componentpage and webcomponentsjs in our case)
+	- it also update the bower.json file to add the dependencies of our app to polymer
 - 
+
