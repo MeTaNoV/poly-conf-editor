@@ -1,0 +1,22 @@
+{
+  "name": "poly-conf-editor",
+  "version": "0.0.1",
+  "description": "TODO",
+  "main": "index.html",
+  "keywords": [
+    "polymer",
+    "configuration",
+    "editor"
+  ],
+  "authors": [
+    "Pascal Gula aKa MeTaNoV"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

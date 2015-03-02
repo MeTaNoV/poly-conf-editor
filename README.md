@@ -21,12 +21,16 @@ It could be a primitive value such as a String or integer or could represent com
 - Mutation Observer to keep track of the history of modification for undo/redo features
 - persistance choice: file/db
 
-# Step:
+# Development Steps:
 
 - create a first application that define 2 simple primitive parameter definitions (integer and string) and their associated edition tabs (parameters configuration will be still hard-coded and read-only)
 - add the edition features to the tabs
 - add the persistance features in mongoDB
 - add the undo/redo mechanism
 - transform the Tabs definition into a generic one
-- 
 
+# Installing the development environment
+- Install node.js (get it here: http://nodejs.org/). This will additionally install npm, the node modules package manager
+- Install bower which is a dedicated package manager for front-end application () thanks to npm
+	- ```npm install -global bower```
+- 
