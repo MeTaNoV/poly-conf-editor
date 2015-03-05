@@ -1,0 +1,6 @@
+.icon-small  { width: 20px; height: 20px; color: red;}
+.icon-medium { width: 60px; height: 60px; color: blue;}
+.icon-large  { width: 100px; height: 100px; color: green;}
+
+core-toolbar { background-color: #03A9F4; color: white; }
+core-header-panel {background-color: white; }
